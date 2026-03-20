@@ -109262,3 +109262,16 @@ List the most important assumptions the business depends on.
 
 </details>
 
+<details>
+<summary><strong>Grok customize</strong></summary>
+
+## Grok customize
+
+Contributed by [@winningt25-ux](https://github.com/winningt25-ux)
+
+```md
+grok customization to get natural response without repetitive English, without sounding robotic, making every response concise and humanize
+```
+
+</details>
+
