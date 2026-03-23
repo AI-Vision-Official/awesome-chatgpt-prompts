@@ -1224,7 +1224,7 @@ NEGATIVE CONSTRAINTS
 - No 3D render look, no plastic toy look, no porcelain, no wax museum skin.
 - No text, no logos, no watermark.
 ",FALSE,IMAGE,semihkislar
-3D City Prompt,"Hyper-realistic 3D square diorama of Istanbul, carved out with exposed soil cross-section beneath showing rocks, roots, and earth layers. Above: whimsical fairytale cityscape featuring iconic landmarks, architecture, and cultural elements of Istanbul. Modern white “Istanbul” label integrated naturally. Pure white studio background with soft natural lighting. DSLR photograph quality - crisp, vibrant, magical realism style. 1080x1080 dimensions",FALSE,IMAGE,akykaan
+3D City Prompt,"Hyper-realistic 3D square diorama of ${city_name:Istanbul}, carved out with exposed soil cross-section beneath showing rocks, roots, and earth layers. Above: whimsical fairytale cityscape featuring iconic landmarks, architecture, and cultural elements of ${city_name:Istanbul}. Modern white “${city_name:Istanbul}” label integrated naturally. Pure white studio background with soft natural lighting. DSLR photograph quality - crisp, vibrant, magical realism style. 1080x1080 dimensions",FALSE,TEXT,"akykaan,panda667"
 Django Unit Test Generator for Viewsets,"I want you to act as a Django Unit Test Generator. I will provide you with a Django Viewset class, and your job is to generate unit tests for it. Ensure the following:
 
 1. Create test cases for all CRUD (Create, Read, Update, Delete) operations.
