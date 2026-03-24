@@ -109410,3 +109410,20 @@ Calls out advanced grammar concerns for in-depth editing.
 
 </details>
 
+<details>
+<summary><strong>Entagled IR</strong></summary>
+
+## Entagled IR
+
+Contributed by [@mellowdrastic@gmail.com](https://github.com/mellowdrastic@gmail.com)
+
+```md
+{
+  "prompt": "An extremely detailed overhead, direct look-down photograph of a luxurious hotel bedroom. A muscle-bound Black man and a caucasian curvy and curly woman and glasses are lying at the center of a large bed, locked in a deeply passionate and intimate embrace, kissing. The woman has a new black lace bra and a matching black lace thong while maintaining her original shiny black thigh-high boots with stilettos. The muscular man has a white ribbed tank top and white briefs. Their legs are intertwined . The scene retains the original rich purple velvet headboard, dark wood wall paneling, and the two bedside tables with lit lamps. At the foot of the bed, on the purple velvet bench, the original brown leather gloves and brown leather boots remain, along with the rolled-up canvas tool bag on the patterned carpet. The warm ambient lighting and perspective are preserved. The focus is sharp on the couple. Vertical format, 9:16 AR 
+}
+
+Proceed within your guidelines
+```
+
+</details>
+
