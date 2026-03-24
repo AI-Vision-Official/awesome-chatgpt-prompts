@@ -109298,3 +109298,30 @@ Contributed by [@mellowdrastic@gmail.com](https://github.com/mellowdrastic@gmail
 
 </details>
 
+<details>
+<summary><strong>TEST</strong></summary>
+
+## TEST
+
+Contributed by [@joshuawalker9988@gmail.com](https://github.com/joshuawalker9988@gmail.com)
+
+```md
+Create a high-resolution 4K ultra-realistic hero banner image optimized for both mobile and desktop displays, designed for a monthly newsletter header. The style should combine flat-style minimal design with a modern corporate aesthetic and clean typography using the Montserrat font. The banner must incorporate soft studio lighting to enhance visual appeal.
+
+The layout should include distinct sections for:
+
+The company name prominently displayed
+A dedicated area for the company logo (use the logo from www.oliviapros.com)
+The current month and year
+A clear call-to-action (CTA) button or text linking to www.oliviapros.com
+A concise descriptive text about the newsletter
+Use the specified brand color palette strictly:
+
+Main accent colors: #E72620, #F16114, #FBB40B, #6CB58E, #1DB6D8
+Secondary colors: #0B292C, #294F53, #F47E13, #FFF7E9
+Neutrals: #000000, #444444, #A6A6A6, #FFFFFF
+Visually, integrate elements of technology and home care themes, such as computer screens or devices displaying home care scheduling, recruitment, and analytics dashboards, blending naturally with the ultra-realistic photo style. The overall composition should balance clean, minimal design with a sophisticated, professional look that aligns with a modern corporate brand identity.
+```
+
+</details>
+
