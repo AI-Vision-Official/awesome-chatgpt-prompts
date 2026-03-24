@@ -109284,21 +109284,6 @@ An ancient library hidden inside a giant hollow tree, magical and inviting atmos
 </details>
 
 <details>
-<summary><strong>Love Shop</strong></summary>
-
-## Love Shop
-
-Contributed by [@mellowdrastic@gmail.com](https://github.com/mellowdrastic@gmail.com)
-
-```md
-{
-"image_generation_prompt": "A vertical, 9:16 cinematic still from image_0.png, set inside the dimly lit, neon-soaked sex shop. The focus has shifted significantly. Instead of begging, the woman (dark wavy hair, intricate black lace lingerie, fishnet stockings, heels) is now completely turned within the young man's (black t-shirt, jeans) embrace. He holds her possessively by the hips and waist, and she is clasped around his neck, caught in a moment of passionate kiss with him. They are oblivious to everything else. Her expression is passionate; his face is intense as he reciprocates. Paolo (the older man in the tailored grey overcoat) has taken several paces away from them towards the background and is turned with his back partially to the camera, looking down at the tiled floor with an expression of deep anguish and rejection. He is a distinct distance away and visually smaller, emphasizing his exclusion. The red and blue 'SEX SHOP,' 'LINGERIE,' and 'ADULT TOYS' neon signs and product shelves are still visible but recede further, forming a complex, atmospheric background, with more focus on the couple and the dramatic light play (chiaroscuro) on them. The composition emphasizes the two lovers. The mood is intimate and high-conflict."
-}
-```
-
-</details>
-
-<details>
 <summary><strong>TEST</strong></summary>
 
 ## TEST
