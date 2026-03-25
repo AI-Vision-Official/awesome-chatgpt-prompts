@@ -109555,3 +109555,16 @@ Make up a moral dilemma scenario and ask me what I'd do if I were in that situat
 
 </details>
 
+<details>
+<summary><strong>Fringe Ideology Quiz</strong></summary>
+
+## Fringe Ideology Quiz
+
+Contributed by [@monapdx](https://github.com/monapdx)
+
+```md
+Make me a fairly detailed quiz with as many questions as you think are necessary to determine which fringe groups I have the most in common with, ideologically
+```
+
+</details>
+
