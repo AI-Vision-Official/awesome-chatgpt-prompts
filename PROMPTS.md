@@ -109490,3 +109490,16 @@ Contributed by [@mellowdrastic@gmail.com](https://github.com/mellowdrastic@gmail
 
 </details>
 
+<details>
+<summary><strong>Researchers in the Library</strong></summary>
+
+## Researchers in the Library
+
+Contributed by [@mohsamhef@gmail.com](https://github.com/mohsamhef@gmail.com)
+
+```md
+Generate a video for Researchers in the Lab going to the library, make it programmatic video creation, maybe use LoRA and Remotion 
+```
+
+</details>
+
