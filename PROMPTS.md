@@ -109529,3 +109529,16 @@ I'd like you to analyze this file containing all of my chat history with a frien
 
 </details>
 
+<details>
+<summary><strong>Self-summary</strong></summary>
+
+## Self-summary
+
+Contributed by [@monapdx](https://github.com/monapdx)
+
+```md
+Give me a summary of what you know about me so far
+```
+
+</details>
+
