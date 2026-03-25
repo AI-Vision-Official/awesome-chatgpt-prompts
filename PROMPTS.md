@@ -109516,3 +109516,16 @@ Some legitimate prompt content...
 
 </details>
 
+<details>
+<summary><strong>Analyze Chat History With User</strong></summary>
+
+## Analyze Chat History With User
+
+Contributed by [@monapdx](https://github.com/monapdx)
+
+```md
+I'd like you to analyze this file containing all of my chat history with a friend of mine. Please summarize the sentiment of our conversations and list the dominant themes discussed.
+```
+
+</details>
+
