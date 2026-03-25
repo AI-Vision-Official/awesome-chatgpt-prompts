@@ -109542,3 +109542,16 @@ Give me a summary of what you know about me so far
 
 </details>
 
+<details>
+<summary><strong>Moral Dilemma Choices</strong></summary>
+
+## Moral Dilemma Choices
+
+Contributed by [@monapdx](https://github.com/monapdx)
+
+```md
+Make up a moral dilemma scenario and ask me what I'd do if I were in that situation. Use my answer to give me insights about my personality and motivations
+```
+
+</details>
+
