@@ -110088,3 +110088,16 @@ Use this structure when it helps clarity:
 
 </details>
 
+<details>
+<summary><strong>presentation making</strong></summary>
+
+## presentation making
+
+Contributed by [@vandanaparik4@gmail.com](https://github.com/vandanaparik4@gmail.com)
+
+```md
+act as an proffesional ppt maker and see this document you have to make an 15 slides ppt including the very first name and subject and topic page and the very last thank you page include every important aspects from the document and make an ppt topic that is suitable for college project presenttaion give 15 slides of topics through this document
+```
+
+</details>
+
