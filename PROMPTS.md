@@ -113076,3 +113076,16 @@ Compare the values and behaviors of ${group_a} and ${group_b} in online spaces.
 
 </details>
 
+<details>
+<summary><strong>question list for reaserch</strong></summary>
+
+## question list for reaserch
+
+Contributed by [@etnologiaus2022@gmail.com](https://github.com/etnologiaus2022@gmail.com)
+
+```md
+Create a list of interview questions for researching ${topic} in ${community}.
+```
+
+</details>
+
