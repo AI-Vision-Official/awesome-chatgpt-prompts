@@ -113050,3 +113050,16 @@ blood grouping detection using image processing i need a complete code for this 
 
 </details>
 
+<details>
+<summary><strong>subculture</strong></summary>
+
+## subculture
+
+Contributed by [@etnologiaus2022@gmail.com](https://github.com/etnologiaus2022@gmail.com)
+
+```md
+Explain the cultural significance of ${subculture} and its impact on society.
+```
+
+</details>
+
