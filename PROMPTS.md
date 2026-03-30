@@ -113063,3 +113063,16 @@ Explain the cultural significance of ${subculture} and its impact on society.
 
 </details>
 
+<details>
+<summary><strong>comparison of social groups</strong></summary>
+
+## comparison of social groups
+
+Contributed by [@etnologiaus2022@gmail.com](https://github.com/etnologiaus2022@gmail.com)
+
+```md
+Compare the values and behaviors of ${group_a} and ${group_b} in online spaces.
+```
+
+</details>
+
