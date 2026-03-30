@@ -113037,3 +113037,16 @@ Rules:
 
 </details>
 
+<details>
+<summary><strong>blood grouping detection using image processing</strong></summary>
+
+## blood grouping detection using image processing
+
+Contributed by [@sanjanaganesh125@gmail.com](https://github.com/sanjanaganesh125@gmail.com)
+
+```md
+blood grouping detection using image processing i need a complete code for this project to buil api or mini website using python 
+```
+
+</details>
+
