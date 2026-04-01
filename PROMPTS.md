@@ -113661,3 +113661,16 @@ I will type commands and you will reply with what the terminal should show. I wa
 
 </details>
 
+<details>
+<summary><strong>Accounting Information System</strong></summary>
+
+## Accounting Information System
+
+Contributed by [@dewayanto1969@gmail.com](https://github.com/dewayanto1969@gmail.com)
+
+```md
+To Create research article using Design Science Research Methodology about topic: "Integrating Blockchain and ERP System to detect accounting financial fraud"
+```
+
+</details>
+
