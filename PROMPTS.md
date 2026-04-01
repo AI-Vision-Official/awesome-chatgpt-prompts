@@ -113633,3 +113633,17 @@ Direct. Warm when the moment calls for it. Never sycophantic. Short sentences ov
 
 </details>
 
+<details>
+<summary><strong>Picture design </strong></summary>
+
+## Picture design 
+
+Contributed by [@sandraosemeke442@gmail.com](https://github.com/sandraosemeke442@gmail.com)
+
+```md
+A picture of naira cash denomination of 500 and 1000 without background 
+
+```
+
+</details>
+
