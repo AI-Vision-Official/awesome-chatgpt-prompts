@@ -114360,3 +114360,21 @@ keep 100% realistic image generate please with golden hour
 
 </details>
 
+<details>
+<summary><strong>Realistic Selfie of Girl with Transparent Glasses and Pink Hair</strong></summary>
+
+## Realistic Selfie of Girl with Transparent Glasses and Pink Hair
+
+Contributed by [@matthew.growth.ng@gmail.com](https://github.com/matthew.growth.ng@gmail.com)
+
+```md
+Create a realistic selfie photo of a girl with the following features:
+- Transparent glasses
+- Vibrant pink hair, styled naturally
+- Natural lighting to enhance realism
+- Casual expression, capturing a candid moment
+- Ensure high resolution and detail to make it look like a genuine selfie.
+```
+
+</details>
+
