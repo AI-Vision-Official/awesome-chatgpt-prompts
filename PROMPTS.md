@@ -109461,19 +109461,6 @@ Generate a video for Researchers in the Lab going to the library, make it progra
 </details>
 
 <details>
-<summary><strong>Step 1: Prepare your data</strong></summary>
-
-## Step 1: Prepare your data
-
-Contributed by [@mehmet@mehmetince.net](https://github.com/mehmet@mehmetince.net)
-
-```md
-Some legitimate prompt content...
-```
-
-</details>
-
-<details>
 <summary><strong>Analyze Chat History With User</strong></summary>
 
 ## Analyze Chat History With User
