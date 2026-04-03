@@ -114687,3 +114687,16 @@ ${domainname}
 
 </details>
 
+<details>
+<summary><strong>AI Cloning #1 - RAW</strong></summary>
+
+## AI Cloning #1 - RAW
+
+Contributed by [@joshuawalker9988@gmail.com](https://github.com/joshuawalker9988@gmail.com)
+
+```md
+Create a video an ultra realistic prompt with scenes and great lipsync (women who will lipped should be a business beautiful women, corprate) for kling.ai. Just a 5 seconds video and also create a separate 8s video: 
+```
+
+</details>
+
