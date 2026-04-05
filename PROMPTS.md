@@ -114878,3 +114878,17 @@ Aşağıdakileri üret:
 
 </details>
 
+<details>
+<summary><strong>Creating PWA AI Chatbot </strong></summary>
+
+## Creating PWA AI Chatbot 
+
+Contributed by [@ezezpeer@gmail.com](https://github.com/ezezpeer@gmail.com)
+
+```md
+I Want my ai companion (PWA app), private, personal and friendly agent. Since it's my first time, i want it to be simple and good
+
+```
+
+</details>
+
