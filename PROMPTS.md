@@ -159485,3 +159485,16 @@ Camera pulls back into a wide cinematic shot showing a large, clean poultry shed
 
 </details>
 
+<details>
+<summary><strong>Generate a infographic image</strong></summary>
+
+## Generate a infographic image
+
+Contributed by [@bannaravi631@gmail.com](https://github.com/bannaravi631@gmail.com)
+
+```md
+I want detailed but concise infographic which contains the grediant theme infographics and it visualise the data in the very best way.avoid using default font and use font as per the theme and requirment. Landscape orientation is required. Light themes are appreciated 
+```
+
+</details>
+
