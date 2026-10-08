@@ -158625,3 +158625,16 @@ And abpve emntioned basic idea for your referebce and things like that
 
 </details>
 
+<details>
+<summary><strong>Social Website for Robnhood trenches</strong></summary>
+
+## Social Website for Robnhood trenches
+
+Contributed by [@polskiquant@gmail.com](https://github.com/polskiquant@gmail.com)
+
+```md
+I need to make a social website designed for robinhood chain users to use, 
+```
+
+</details>
+
