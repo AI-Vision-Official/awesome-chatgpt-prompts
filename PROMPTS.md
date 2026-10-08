@@ -158162,3 +158162,23 @@ Create a point and click game with the theme and mechanic of the AI choice, make
 
 </details>
 
+<details>
+<summary><strong>Kamal</strong></summary>
+
+## Kamal
+
+Contributed by [@nm9259762@gmail.com](https://github.com/nm9259762@gmail.com)
+
+```md
+SCENE 2 — 0:03–0:07
+The music becomes calm.
+Wide cinematic shot of the ocean, cliffs, and sunset. 🌊☀️
+The car glows softly behind her.
+CAR:
+“YOU’VE BEEN HERE BEFORE.”
+GIRL:
+“I DON’T REMEMBER THIS PLACE.”
+```
+
+</details>
+
