@@ -151365,3 +151365,16 @@ To facilitate a balanced workload and ensure seamless execution, the team will r
 
 </details>
 
+<details>
+<summary><strong>Add Black Glasses to My Photo</strong></summary>
+
+## Add Black Glasses to My Photo
+
+Contributed by [@rajputbhanupratap2007@gmail.com](https://github.com/rajputbhanupratap2007@gmail.com)
+
+```md
+add black glasses on my picture that suits on me that cover my eyes also make it realistic 
+```
+
+</details>
+
