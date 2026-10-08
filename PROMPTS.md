@@ -158080,3 +158080,16 @@ Describe what this skill does and how the agent should use it.
 
 </details>
 
+<details>
+<summary><strong>Give me text book to learn Spanish with Myanmar language </strong></summary>
+
+## Give me text book to learn Spanish with Myanmar language 
+
+Contributed by [@thinn666@gmail.com](https://github.com/thinn666@gmail.com)
+
+```md
+Give me note book to learn Spanish with Myanmar translation 
+```
+
+</details>
+
