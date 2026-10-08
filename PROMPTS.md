@@ -163389,3 +163389,23 @@ The logo should include:
 
 </details>
 
+<details>
+<summary><strong>Rustic Farm</strong></summary>
+
+## Rustic Farm
+
+Contributed by [@abouhanae.72@gmail.com](https://github.com/abouhanae.72@gmail.com)
+
+```md
+I'm looking for a talented designer to create a rustic-style farm logo for my brand. R Lucky Star Farm
+
+The logo should include:
+- A rustic aesthetic
+- Inclusion of farm animals: cow, pig, and chicken
+- Five stars integrated into the design
+- maybe a horseshoe
+- the letter R
+```
+
+</details>
+
