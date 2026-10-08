@@ -151550,3 +151550,17 @@ Now, let's begin the process of crafting a high-end prompt. Please tell me:
 
 </details>
 
+<details>
+<summary><strong>Cold Drink Can HTML5 Animation Website</strong></summary>
+
+## Cold Drink Can HTML5 Animation Website
+
+Contributed by [@write2aniketsingh@gmail.com](https://github.com/write2aniketsingh@gmail.com)
+
+```md
+Make me a professional html5 website of cold drink can animation, which roams to different and different positions when we scroll and then add text of a website named coca cola
+
+```
+
+</details>
+
