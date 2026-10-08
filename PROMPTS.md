@@ -163822,3 +163822,16 @@ create full project html css as well as this image 100%
 
 </details>
 
+<details>
+<summary><strong>gebnerations</strong></summary>
+
+## gebnerations
+
+Contributed by [@chantichanti062@gmail.com](https://github.com/chantichanti062@gmail.com)
+
+```md
+i want to extract best  prompt for generating the pdf , excel or powerpoint 
+```
+
+</details>
+
