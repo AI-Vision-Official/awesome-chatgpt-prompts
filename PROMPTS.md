@@ -163039,3 +163039,16 @@ No illustration, no cartoon, no 3D. Dark, unsettling, surreal, quiet.
 
 </details>
 
+<details>
+<summary><strong>Symbiote Suit Editorial Portrait</strong></summary>
+
+## Symbiote Suit Editorial Portrait
+
+Contributed by [@alejandro.garcia.garay@gmail.com](https://github.com/alejandro.garcia.garay@gmail.com)
+
+```md
+Photorealistic portrait of a young woman with long honey-brown hair parted in the middle, wearing a black Spider-Man symbiote suit with raised web pattern texture and metallic gray spider emblem on chest. She stands in three-quarter pose, hands on chest, direct intense gaze at camera. Professional studio lighting with soft shadows, medium gray seamless background. Mid-shot composition, vertical format. High detail fabric texture, cinematic photography style, 85mm lens, sharp focus, editorial quality.
+```
+
+</details>
+
