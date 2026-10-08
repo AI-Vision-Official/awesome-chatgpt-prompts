@@ -163835,3 +163835,16 @@ i want to extract best  prompt for generating the pdf , excel or powerpoint
 
 </details>
 
+<details>
+<summary><strong>Camera Shot</strong></summary>
+
+## Camera Shot
+
+Contributed by [@pnkca.in@gmail.com](https://github.com/pnkca.in@gmail.com)
+
+```md
+A professional, cinematic portrait featuring a {subject} in a stunning {dress} and {Hairstyle} expertly enhanced by detailed makeup and posed in a specific {Poses}. The scene is set against a carefully chosen {background}, illuminated by artistic {light} and captured with precise{framing} to create a high-fashion aesthetic
+```
+
+</details>
+
