@@ -154632,3 +154632,17 @@ create a PNG image like a stamp saying sent to $(country). Image in red, retro s
 
 </details>
 
+<details>
+<summary><strong>Tumeric kojic soap</strong></summary>
+
+## Tumeric kojic soap
+
+Contributed by [@ujubril1111@gmail.com](https://github.com/ujubril1111@gmail.com)
+
+```md
+A close-up showcases the exquisite packaging of the tumeric kojic soap, displaying is vibrant orange and yellow designs.
+
+```
+
+</details>
+
