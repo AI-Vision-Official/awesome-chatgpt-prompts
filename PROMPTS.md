@@ -163287,3 +163287,16 @@ Produce simultaneously in **Markdown, JSON, YAML, and CSV**:
 
 </details>
 
+<details>
+<summary><strong>logo Anaelle</strong></summary>
+
+## logo Anaelle
+
+Contributed by [@abouhanae.72@gmail.com](https://github.com/abouhanae.72@gmail.com)
+
+```md
+I’m building a brand around Anaelle, an AI triage assistant that lightens a primary-care physician’s inbox by sorting lab and imaging reports, summarising lengthy clinic letters and flagging priorities. I need a modern, sleek logo in a blue-and-white palette that instantly signals “medical technology” while staying clean and professional.
+```
+
+</details>
+
