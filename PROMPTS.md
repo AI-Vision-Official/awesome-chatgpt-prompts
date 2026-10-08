@@ -162778,3 +162778,28 @@ Write a captivating prompt showing proposed clients how their business facility 
 
 </details>
 
+<details>
+<summary><strong>Ai agent pro</strong></summary>
+
+## Ai agent pro
+
+Contributed by [@aayush3957@gmail.com](https://github.com/aayush3957@gmail.com)
+
+```md
+---
+name: ai-agent-pro
+description: analysis of stock market charts given, and giving perfect reading n target n buy n sell n stop-loss 
+---
+
+# Ai agent pro
+
+Describe what this skill does and how the agent should use it.
+
+## Instructions
+
+- Step 1: ...
+- Step 2: ...
+```
+
+</details>
+
