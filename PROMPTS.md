@@ -161929,3 +161929,17 @@ A full-body vertical editorial fashion photograph of a beautiful young woman wit
 
 </details>
 
+<details>
+<summary><strong>Vibe</strong></summary>
+
+## Vibe
+
+Contributed by [@favour9deys.dev@gmail.com](https://github.com/favour9deys.dev@gmail.com)
+
+```md
+Help me write a professional prompt for building a streaming platform like Onlyfans and Twitch joined together but for Traders only (My Audience).
+
+```
+
+</details>
+
