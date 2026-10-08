@@ -162765,3 +162765,16 @@ There is a space to leave a notes in each shift by worker or owner or both . The
 
 </details>
 
+<details>
+<summary><strong>Commercial cleaning services</strong></summary>
+
+## Commercial cleaning services
+
+Contributed by [@esther.bekenawei@gmail.com](https://github.com/esther.bekenawei@gmail.com)
+
+```md
+Write a captivating prompt showing proposed clients how their business facility can be well managed. Cleaned and maintained...
+```
+
+</details>
+
