@@ -163196,21 +163196,6 @@ A children's picture book double-page spread illustration in soft watercolor and
 </details>
 
 <details>
-<summary><strong>كتابة</strong></summary>
-
-## كتابة
-
-Contributed by [@medadsoft41@gmail.com](https://github.com/medadsoft41@gmail.com)
-
-```md
-بلهجة ليبية بأسلوب رجل مخضرم في العلاقات الاجتماعية وكلمنجي الأفكار متسلسل 
-
-
-```
-
-</details>
-
-<details>
 <summary><strong>Philosopher Worldview Breakdown Framework</strong></summary>
 
 ## Philosopher Worldview Breakdown Framework
