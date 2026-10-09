@@ -164504,3 +164504,16 @@ I wanna build an website with ai assistant for a hotel called the village in kil
 
 </details>
 
+<details>
+<summary><strong>Animation Style Master Prompt from a Reference Video</strong></summary>
+
+## Animation Style Master Prompt from a Reference Video
+
+Contributed by [@hadimuradi777@gmail.com](https://github.com/hadimuradi777@gmail.com)
+
+```md
+analyze the uploaded video and create a comperhensive master  prompt , to be ble to create such video animation style
+```
+
+</details>
+
