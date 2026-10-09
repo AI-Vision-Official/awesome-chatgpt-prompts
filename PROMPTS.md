@@ -164184,3 +164184,16 @@ GIRL:
 
 </details>
 
+<details>
+<summary><strong>How CODA Evaluates Dental Schools and Clinics</strong></summary>
+
+## How CODA Evaluates Dental Schools and Clinics
+
+Contributed by [@wchiclana@gmail.com](https://github.com/wchiclana@gmail.com)
+
+```md
+How CODA  EVALUATe OTHER DENTAL MEDICINE clinics and SCHOOLS inside universities in the united states
+```
+
+</details>
+
