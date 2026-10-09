@@ -140367,26 +140367,6 @@ create a version of cv by referencing existing cv and align with the jd to produ
 </details>
 
 <details>
-<summary><strong>Little mann</strong></summary>
-
-## Little mann
-
-Contributed by [@couragebillon@gmail.com](https://github.com/couragebillon@gmail.com)
-
-```md
-    Young Black man, 23 years old
-* Slim athletic build, medium height
-* Dark brown skin
-* Short, tightly curled black hair
-* Brown eyes
-* Small scar above his right eyebrow
-* Calm, determined facial expression
-* Poor version: faded dark-brown hoodie, worn blue jeans, old black sneakers, brown canvas shoulder bag
-```
-
-</details>
-
-<details>
 <summary><strong>master one prompt</strong></summary>
 
 ## master one prompt
