@@ -163933,3 +163933,16 @@ Act as expert Software Engineer with 10 years of vast and valuable knowledge exp
 
 </details>
 
+<details>
+<summary><strong>Anime Database and News App</strong></summary>
+
+## Anime Database and News App
+
+Contributed by [@oncehumsn0@gmail.com](https://github.com/oncehumsn0@gmail.com)
+
+```md
+I want to Create an app where i can store information about all anime and and all anime latest news and information 
+```
+
+</details>
+
