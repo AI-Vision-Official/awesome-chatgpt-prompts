@@ -160239,19 +160239,6 @@ Quality: Ultra-realistic, high-quality, sharp 8K photograph, natural skin textur
 </details>
 
 <details>
-<summary><strong>animation </strong></summary>
-
-## animation 
-
-Contributed by [@hadimuradi777@gmail.com](https://github.com/hadimuradi777@gmail.com)
-
-```md
-analyze the uploaded video and create a comperhensive master  prompt , to be ble to create such video animation style
-```
-
-</details>
-
-<details>
 <summary><strong>Elegant Dark Harlequin Portrait</strong></summary>
 
 ## Elegant Dark Harlequin Portrait
