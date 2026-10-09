@@ -163981,3 +163981,16 @@ Contributed by [@couragebillon@gmail.com](https://github.com/couragebillon@gmail
 
 </details>
 
+<details>
+<summary><strong>Ancient Roman Coin Identifier and Auction Listing Writer</strong></summary>
+
+## Ancient Roman Coin Identifier and Auction Listing Writer
+
+Contributed by [@jerrysteifle@gmail.com](https://github.com/jerrysteifle@gmail.com)
+
+```md
+Identify and catalog ancient Roman coins from submitted images and text. Write a complete auction listing with descriptions and references used.
+```
+
+</details>
+
