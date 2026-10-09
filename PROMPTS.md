@@ -140367,21 +140367,6 @@ create a version of cv by referencing existing cv and align with the jd to produ
 </details>
 
 <details>
-<summary><strong>Poor man </strong></summary>
-
-## Poor man 
-
-Contributed by [@couragebillon@gmail.com](https://github.com/couragebillon@gmail.com)
-
-```md
-Scene 1 — 0–5 sec
-A poor young man stands outside a luxury building while people laugh at him.
-Text: “They laughed when he said he would become rich…”
-```
-
-</details>
-
-<details>
 <summary><strong>Little mann</strong></summary>
 
 ## Little mann
