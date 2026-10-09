@@ -164491,3 +164491,16 @@ i want to extract best  prompt for generating the pdf , excel or powerpoint
 
 </details>
 
+<details>
+<summary><strong>AI Front Desk Website for a Nairobi Hotel</strong></summary>
+
+## AI Front Desk Website for a Nairobi Hotel
+
+Contributed by [@abdihassan0612@gmail.com](https://github.com/abdihassan0612@gmail.com)
+
+```md
+I wanna build an website with ai assistant for a hotel called the village in kilimani nairobi it has to have whatsapp empessa empessa prompt I want It to be an ai frondesk ai call 
+```
+
+</details>
+
