@@ -147502,19 +147502,6 @@ This is a test prompt created to verify API authentication.
 </details>
 
 <details>
-<summary><strong>Metacarve </strong></summary>
-
-## Metacarve 
-
-Contributed by [@nilempire@hotmail.com](https://github.com/nilempire@hotmail.com)
-
-```md
-Sheet metal fabrication with hames laser as well as energy mission press break make a video for metacarve Fab tech marketing campaign 
-```
-
-</details>
-
-<details>
 <summary><strong>areocpi</strong></summary>
 
 ## areocpi
