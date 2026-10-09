@@ -164344,3 +164344,30 @@ Want me to also draft 3-4 alternate hook/title text options to test for the thum
 
 </details>
 
+<details>
+<summary><strong>Anime Comic Cartoon Character Skill Template</strong></summary>
+
+## Anime Comic Cartoon Character Skill Template
+
+Contributed by [@yo465472@gmail.com](https://github.com/yo465472@gmail.com)
+
+```md
+---
+name: anime-comic-cartoon-character-skill-template
+description: Anime comic cartoon
+---
+
+# Personnage comic
+
+Describe what this skill does and how the agent should use it.
+
+## Instructions
+
+- Step 1: ...
+- Step 2: ...
+FILE:README.md
+
+```
+
+</details>
+
