@@ -120817,19 +120817,6 @@ This should visually resemble common reading habits on social platforms.
 </details>
 
 <details>
-<summary><strong>Anime</strong></summary>
-
-## Anime
-
-Contributed by [@oncehumsn0@gmail.com](https://github.com/oncehumsn0@gmail.com)
-
-```md
-I want to Create an app where i can store information about all anime and and all anime latest news and information 
-```
-
-</details>
-
-<details>
 <summary><strong>Prompt 101 (full)</strong></summary>
 
 ## Prompt 101 (full)
