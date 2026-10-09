@@ -164478,3 +164478,16 @@ Contributed by [@tuktuki48424842@gmail.com](https://github.com/tuktuki48424842@g
 
 </details>
 
+<details>
+<summary><strong>Prompt Builder for PDF, Excel and PowerPoint Generation</strong></summary>
+
+## Prompt Builder for PDF, Excel and PowerPoint Generation
+
+Contributed by [@chantichanti062@gmail.com](https://github.com/chantichanti062@gmail.com)
+
+```md
+i want to extract best  prompt for generating the pdf , excel or powerpoint 
+```
+
+</details>
+
