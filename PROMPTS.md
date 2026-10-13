@@ -170771,3 +170771,16 @@ Contributed by [@bate5a.kebera@gmail.com](https://github.com/bate5a.kebera@gmail
 
 </details>
 
+<details>
+<summary><strong>Cinematic Bank Heist Scene</strong></summary>
+
+## Cinematic Bank Heist Scene
+
+Contributed by [@shumbone@gmail.com](https://github.com/shumbone@gmail.com)
+
+```md
+Act as a cinematic director. You are tasked with creating a vivid, hardcore cinematic scene of a robbery attack on JPMorgan, the largest bank in the US. 
+```
+
+</details>
+
