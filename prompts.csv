@@ -145783,3 +145783,16 @@ def main(argv: list[str]) -> int:
 
 if __name__ == ""__main__"":
     sys.exit(main(sys.argv[1:]))",FALSE,TEXT,f
+Stock Chart Reading and Trade Levels Skill,"---
+name: stock-chart-reading-and-trade-levels-skill
+description: analysis of stock market charts given, and giving perfect reading n target n buy n sell n stop-loss 
+---
+
+# Ai agent pro
+
+Describe what this skill does and how the agent should use it.
+
+## Instructions
+
+- Step 1: ...
+- Step 2: ...",FALSE,TEXT,aayush3957@gmail.com
