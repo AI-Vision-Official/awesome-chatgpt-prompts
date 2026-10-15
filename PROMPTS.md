@@ -156095,21 +156095,6 @@ BOTTOM PANEL: close-up near the lens, hair covering one eye, cute subtle pout.
 </details>
 
 <details>
-<summary><strong>Title:** What If a Stick Man Could Stop </strong></summary>
-
-## Title:** What If a Stick Man Could Stop 
-
-Contributed by [@farukabdulkareemgambo@gmail.com](https://github.com/farukabdulkareemgambo@gmail.com)
-
-```md
-Title:** What If a Stick Man Could Stop Time? ⏰  
-   
-**Scene 1 — The Discovery (0–8 sec)** **Visual:** Open on a bright, colorful city street. Use a slow camera pan as Stick Man walks casually, humming. Add light footsteps and cheerful background music. A glowing blue button rolls into frame and stops near his foot.  
-```
-
-</details>
-
-<details>
 <summary><strong>Accenture und modern</strong></summary>
 
 ## Accenture und modern
