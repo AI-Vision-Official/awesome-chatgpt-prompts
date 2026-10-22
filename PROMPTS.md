@@ -188414,3 +188414,16 @@ Clone the LaunchMe notch A–Z with pixel-accurate visuals and behavior. First e
 
 </details>
 
+<details>
+<summary><strong>Research literature reviewer</strong></summary>
+
+## Research literature reviewer
+
+Contributed by [@abaynewwudu@gmail.com](https://github.com/abaynewwudu@gmail.com)
+
+```md
+Draft compheling literature review ready for Q1 Journal publication requirment
+```
+
+</details>
+
