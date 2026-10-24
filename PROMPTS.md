@@ -193070,3 +193070,16 @@ Subject: Cozy bedroom ASMR, Motion: Slow, gentle hand movements tracing textures
 
 </details>
 
+<details>
+<summary><strong>Doctor Guiding Students Up a Staircase of Books to Success</strong></summary>
+
+## Doctor Guiding Students Up a Staircase of Books to Success
+
+Contributed by [@mzbodi128@gmail.com](https://github.com/mzbodi128@gmail.com)
+
+```md
+Create a program for a doctor who paves the way for university students through scientific books in the form of thresholds one by one to illuminate the path to success for them .. In the other, the word success appears to fascinate the world
+```
+
+</details>
+
