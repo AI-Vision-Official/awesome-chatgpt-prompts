@@ -195225,3 +195225,16 @@ Create a professional program to create a booklet cover in different colors with
 
 </details>
 
+<details>
+<summary><strong>Attention-Grabbing Booklet Cover Design with Images and Custom Fonts</strong></summary>
+
+## Attention-Grabbing Booklet Cover Design with Images and Custom Fonts
+
+Contributed by [@mzbodi128@gmail.com](https://github.com/mzbodi128@gmail.com)
+
+```md
+Create a professional program to create a booklet cover in different colors with the possibility of adding images to complement the painting contribute to attracting the reader's attention distributed in a superior format with the choice of type, colors and Font Format for the product name ""brief summary 60 words* ""author ""serial number ""conjure the attached design to simulate a more creative design with the possibility of data entry above" I want a creative design from a unique idea like this in the attached image
+```
+
+</details>
+
