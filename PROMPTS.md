@@ -202443,3 +202443,20 @@ if __name__ == "__main__":
 
 </details>
 
+<details>
+<summary><strong>character sheet</strong></summary>
+
+## character sheet
+
+Contributed by [@ali.rococo.12@gmail.com](https://github.com/ali.rococo.12@gmail.com)
+
+```md
+A 3D character sheet of a chubby boy in a Caricatured Realism style, arranged in a single image with three sections:
+
+- Full body, front view
+- Full body, back view
+- Head, front view
+```
+
+</details>
+
