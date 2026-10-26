@@ -18226,7 +18226,9 @@ Contributed by [@dorukkurtoglu@gmail.com](https://github.com/dorukkurtoglu@gmail
     },
     "accessories": {
       "bag": "Small shoulder bag (no logos)",
-      "jewelry": ["Small silver hoops"]
+      "jewelry": [
+        "Small silver hoops"
+      ]
     }
   },
   "pose": {
@@ -18283,10 +18285,18 @@ Contributed by [@dorukkurtoglu@gmail.com](https://github.com/dorukkurtoglu@gmail
     "single_subject_only": true
   },
   "negative_prompt": [
-    "mirror glitches", "double reflections", "warped elevator",
-    "extra limbs", "bad hands", "plastic skin",
-    "readable text", "logos", "watermark",
-    "cgi", "cartoon", "anime"
+    "mirror glitches",
+    "double reflections",
+    "warped elevator",
+    "extra limbs",
+    "bad hands",
+    "plastic skin",
+    "readable text",
+    "logos",
+    "watermark",
+    "cgi",
+    "cartoon",
+    "anime"
   ]
 }
 ```
