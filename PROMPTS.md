@@ -204621,3 +204621,16 @@ Authentic Victorian-era Halloween cabinet card photograph, circa 1890, three chi
 
 </details>
 
+<details>
+<summary><strong>Based on everything you know about me, roast and don't hold back. Say it in Portuguese slang Just like this, but add way more português swear words</strong></summary>
+
+## Based on everything you know about me, roast and don't hold back. Say it in Portuguese slang Just like this, but add way more português swear words
+
+Contributed by [@karen.natale@gmail.com](https://github.com/karen.natale@gmail.com)
+
+```md
+Based on everything you know about me, roast and don't hold back. Say it in Portuguese slang Just like this, but add way more português swear words
+```
+
+</details>
+
