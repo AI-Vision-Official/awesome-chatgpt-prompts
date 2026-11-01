@@ -218175,3 +218175,16 @@ A clean, clear, beautifully shot Halloween horror short with a chilling final re
 
 </details>
 
+<details>
+<summary><strong>Hi-Viz branded running T-shirt design</strong></summary>
+
+## Hi-Viz branded running T-shirt design
+
+Contributed by [@glynnp79@gmail.com](https://github.com/glynnp79@gmail.com)
+
+```md
+Create a design using our brand logo using hi-viz and black vinyl/print. Do this on Hi-visibility running tops.
+```
+
+</details>
+
