@@ -230176,3 +230176,16 @@ A cute big gray elephant with huge ears and a small trunk standing happily in a 
 
 </details>
 
+<details>
+<summary><strong>Cute Elephant in a Sunny Jungle, 3D Cartoon Animation</strong></summary>
+
+## Cute Elephant in a Sunny Jungle, 3D Cartoon Animation
+
+Contributed by [@alpeshhprajapati2323@gmail.com](https://github.com/alpeshhprajapati2323@gmail.com)
+
+```md
+A cute big gray elephant with huge ears and a small trunk standing happily in a beautiful green jungle, colorful trees and flowers, warm sunlight, friendly expression, 3D cartoon animation style, Pixar-like quality, cinematic lighting, vibrant colors, detailed, 16:9
+```
+
+</details>
+
