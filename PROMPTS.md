@@ -236637,3 +236637,16 @@ A boy teaching the bangla meaning of manifestations with example nicely in 8s
 
 </details>
 
+<details>
+<summary><strong>Research connections </strong></summary>
+
+## Research connections 
+
+Contributed by [@katie.hascall123@gmail.com](https://github.com/katie.hascall123@gmail.com)
+
+```md
+Write a prompt or code that I can input 2 people's names.  Prompt ans code is for searching osint and other online sources to find hidden personal connections betwern the 2 people's names input into the search
+```
+
+</details>
+
