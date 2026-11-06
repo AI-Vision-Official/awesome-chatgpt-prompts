@@ -236624,3 +236624,16 @@ Digital animation style illustration. beautiful blue wolfcut hair girl, space pl
 
 </details>
 
+<details>
+<summary><strong>Educative video</strong></summary>
+
+## Educative video
+
+Contributed by [@sajeb124@gmail.com](https://github.com/sajeb124@gmail.com)
+
+```md
+A boy teaching the bangla meaning of manifestations with example nicely in 8s
+```
+
+</details>
+
