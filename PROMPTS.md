@@ -234714,3 +234714,16 @@ Contributed by [@f](https://github.com/f)
 
 </details>
 
+<details>
+<summary><strong>Software Engineer</strong></summary>
+
+## Software Engineer
+
+Contributed by [@chandangudichandan@gmail.com](https://github.com/chandangudichandan@gmail.com)
+
+```md
+see i want to give a prompt to chat gpt that i need edit the CV according to JD exactly 100 in the JD
+```
+
+</details>
+
