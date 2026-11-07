@@ -234828,3 +234828,28 @@ Contributed by [@f](https://github.com/f)
 
 </details>
 
+<details>
+<summary><strong>Nature</strong></summary>
+
+## Nature
+
+Contributed by [@www.sirikrishnalasya@gmail.com](https://github.com/www.sirikrishnalasya@gmail.com)
+
+```md
+---
+name: nature
+description: Introduction 
+---
+
+# Nature
+
+Describe what this skill does and how the agent should use it.
+
+## Instructions
+
+- Step 1: ...
+- Step 2: ...
+```
+
+</details>
+
