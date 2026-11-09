@@ -236062,3 +236062,16 @@ Style: Professional restaurant advertisement, high quality, mouth-watering, no v
 
 </details>
 
+<details>
+<summary><strong>Diwali wish</strong></summary>
+
+## Diwali wish
+
+Contributed by [@punutruchisingh@gmail.com](https://github.com/punutruchisingh@gmail.com)
+
+```md
+Please create a Diwali poster for me that includes a greeting message—one with a unique, thought-provoking concept that compels people to reflect. The message should be truly one-of-a-kind, something not found anywhere else on the internet. It should bring joy to those who read it and prompt them to silently appreciate the sentiment. Also, please include my name at the bottom of the poster.
+```
+
+</details>
+
