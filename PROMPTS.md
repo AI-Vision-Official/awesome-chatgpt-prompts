@@ -238856,3 +238856,16 @@ A flappy bird game looks technologically and also look like in the future. When 
 
 </details>
 
+<details>
+<summary><strong>add or poster for well control training </strong></summary>
+
+## add or poster for well control training 
+
+Contributed by [@ahmed.dcf1980@gmail.com](https://github.com/ahmed.dcf1980@gmail.com)
+
+```md
+i want to make a poster for IADC wellsharp classroom/online telling about black friday and significant discoun
+```
+
+</details>
+
