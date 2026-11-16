@@ -240371,3 +240371,18 @@ Output **only** the raw, valid Markdown document enclosed in a single `markdown`
 
 </details>
 
+<details>
+<summary><strong>Minutes of meeting </strong></summary>
+
+## Minutes of meeting 
+
+Contributed by [@zabdu70@gmail.com](https://github.com/zabdu70@gmail.com)
+
+```md
+Minutes of meeting held at department of Chemical Sciences FUK 
+
+
+```
+
+</details>
+
