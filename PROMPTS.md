@@ -241003,3 +241003,16 @@ Create a prompt that allows ai to study, scrutinize etc daily odds of betting ac
 
 </details>
 
+<details>
+<summary><strong>Logo design </strong></summary>
+
+## Logo design 
+
+Contributed by [@abd.kayyy@gmail.com](https://github.com/abd.kayyy@gmail.com)
+
+```md
+Best logo and appealing and creative for my shipping company where I purchase containers 
+```
+
+</details>
+
