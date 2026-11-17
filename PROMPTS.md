@@ -240873,3 +240873,16 @@ A boy's story about becoming a cricket player just like virat kohli
 
 </details>
 
+<details>
+<summary><strong>Heinsberg' principle</strong></summary>
+
+## Heinsberg' principle
+
+Contributed by [@ojeidaniel79@gmail.com](https://github.com/ojeidaniel79@gmail.com)
+
+```md
+I want to create a video using Heinsebergs principle for Life principles
+```
+
+</details>
+
