@@ -241016,3 +241016,17 @@ Best logo and appealing and creative for my shipping company where I purchase co
 
 </details>
 
+<details>
+<summary><strong>design</strong></summary>
+
+## design
+
+Contributed by [@kogneatguesthousegh@gmail.com](https://github.com/kogneatguesthousegh@gmail.com)
+
+```md
+generate the best web design for match the website I'm building
+
+```
+
+</details>
+
