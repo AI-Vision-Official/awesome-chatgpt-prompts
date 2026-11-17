@@ -241030,3 +241030,16 @@ generate the best web design for match the website I'm building
 
 </details>
 
+<details>
+<summary><strong>writing and format</strong></summary>
+
+## writing and format
+
+Contributed by [@takewa.metwaly@gmail.com](https://github.com/takewa.metwaly@gmail.com)
+
+```md
+I need a prompt for formatting an Arabic Word document, covering aspects such as text direction, alignment (centering), font size differentiation between headings and paragraphs, and the centering and directional alignment of tables.
+```
+
+</details>
+
