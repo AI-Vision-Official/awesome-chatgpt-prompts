@@ -241473,3 +241473,18 @@ The final result should make corporate decision-makers think:
 
 </details>
 
+<details>
+<summary><strong>Pay on delivery</strong></summary>
+
+## Pay on delivery
+
+Contributed by [@sengashiku@gmail.com](https://github.com/sengashiku@gmail.com)
+
+```md
+as a product manager in help me do market reearch on pay on delivey apps in africa
+
+
+```
+
+</details>
+
