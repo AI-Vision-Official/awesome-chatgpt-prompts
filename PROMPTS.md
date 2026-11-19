@@ -243781,3 +243781,16 @@ A 10s AI video of a young Nigerian man having a conversation with his wife in th
 
 </details>
 
+<details>
+<summary><strong>AUTOMATION</strong></summary>
+
+## AUTOMATION
+
+Contributed by [@mcdonald.imo81@gmail.com](https://github.com/mcdonald.imo81@gmail.com)
+
+```md
+So,I want an AI to go through a piece of document meticulously and extensively, now the piece of document is about a project that I am supposed to work on and automate a workflow for, I also do nor want it to skip any point and I need step by step process on how to properly execute the project with my team
+```
+
+</details>
+
