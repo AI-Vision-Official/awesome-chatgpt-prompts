@@ -243768,3 +243768,16 @@ Contributed by [@f](https://github.com/f)
 
 </details>
 
+<details>
+<summary><strong>AI Video generation </strong></summary>
+
+## AI Video generation 
+
+Contributed by [@seyijay26@gmail.com](https://github.com/seyijay26@gmail.com)
+
+```md
+A 10s AI video of a young Nigerian man having a conversation with his wife in the living room
+```
+
+</details>
+
