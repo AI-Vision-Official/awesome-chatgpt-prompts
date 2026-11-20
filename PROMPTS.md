@@ -244114,3 +244114,16 @@ Render it exactly like a real Autochrome glass plate: muted, faded sepia-pastel 
 
 </details>
 
+<details>
+<summary><strong>Branding</strong></summary>
+
+## Branding
+
+Contributed by [@taimartnigeria1@gmail.com](https://github.com/taimartnigeria1@gmail.com)
+
+```md
+Learning branding and building a firm that deals with branding 
+```
+
+</details>
+
