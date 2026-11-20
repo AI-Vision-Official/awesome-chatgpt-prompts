@@ -244340,3 +244340,17 @@ Contributed by [@f](https://github.com/f)
 
 </details>
 
+<details>
+<summary><strong>how to become smart</strong></summary>
+
+## how to become smart
+
+Contributed by [@abdulimran038@gmail.com](https://github.com/abdulimran038@gmail.com)
+
+```md
+generate a unique video on how a person who was not initially smart to how the person can become smart. make this video 30 seconds long
+
+```
+
+</details>
+
