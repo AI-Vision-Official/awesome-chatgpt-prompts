@@ -157610,7 +157610,7 @@ Product hero photograph of a matte sand-beige ceramic pour-over coffee set: a ri
 
 ## Why Do We Have Trouble Making Simple Decisions?
 
-Contributed by [@ibromul423@gmail.com](https://github.com/ibromul423@gmail.com), [@PsychoticGao](https://github.com/PsychoticGao), [@pschoenjunk@gmail.com](https://github.com/pschoenjunk@gmail.com), [@psychoctopuspto@gmail.com](https://github.com/psychoctopuspto@gmail.com), [@MasterTPsych0](https://github.com/MasterTPsych0)
+Contributed by [@ibromul423@gmail.com](https://github.com/ibromul423@gmail.com), [@MasterTPsych0](https://github.com/MasterTPsych0), [@PsychoticGao](https://github.com/PsychoticGao), [@pschoenjunk@gmail.com](https://github.com/pschoenjunk@gmail.com), [@psychoctopuspto@gmail.com](https://github.com/psychoctopuspto@gmail.com)
 
 ```md
 why do we procrastinate? why do I procrastinate? Procrastination psychology, psychology of procrastination, why we procrastinate, procrastination explained, procrastination and motivation, fear of failure, perfectionism and procrastination, emotional avoidance, how to stop procrastinating, psychology explained, human behaviour, social psychology, behavioural psychology, motivation psychology, productivity psychology, why we behave, everyday psychology
