@@ -245639,3 +245639,16 @@ An incredibly sexy, fully grown adult woman with long, dark, flowing hair, volup
 
 </details>
 
+<details>
+<summary><strong>CPA Program Marketing Campaign </strong></summary>
+
+## CPA Program Marketing Campaign 
+
+Contributed by [@lewawi1234@gmail.com](https://github.com/lewawi1234@gmail.com)
+
+```md
+to promote the upcoming Certified Public Accountant (CPA) program led by the Ethiopian Institute of Certified Public Accountants (ETiCPA)  
+```
+
+</details>
+
