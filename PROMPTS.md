@@ -249182,3 +249182,16 @@ A cinematic studio portrait of a woman seated at a textured stone table against 
 
 </details>
 
+<details>
+<summary><strong>Classic GTA-Style Game With Missions and Storyline</strong></summary>
+
+## Classic GTA-Style Game With Missions and Storyline
+
+Contributed by [@darnelloutlaw282@gmail.com](https://github.com/darnelloutlaw282@gmail.com)
+
+```md
+make a game like gta the first one with missions and good storyline with great hud and gr5ahics 
+```
+
+</details>
+
